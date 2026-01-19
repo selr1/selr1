@@ -1,69 +1,41 @@
 <h1 align="center">
-  <font size="5">Hi !</font>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+  <b>Hi !</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=18&center=true&vCenter=true&width=400&height=70&lines=My+Matric+Number+is+2428591">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=My+Matric+Number+is+2428591">
   </a>
 </p>
 
-<div align="center">
+## Favourite Projects
 
-## Favorite Project: MediSign
+<table border="0" align="center">
+<tr border="0">
 
-<table width="450">
-  <tr border="0">
-    <td align="center">
-      <p align="center">
-        <img src="https://github.com/selr1/medisign/blob/3286e99d7dd783bf31fd5ff74c9afaed1fb14496/2026-01-14-082635_hyprshot.png?raw=true" alt="MediSign Preview" width="300" height="auto"/>
-      </p>
-      <p>
-        <font size="2">
-          <b>Malaysian Medical Sign Language Recognition System</b>
-          <br>
-          ML platform using <b>MediaPipe</b> and <b>Scikit-Learn</b>.
-        </font>
-      </p>
-      <a href="https://github.com/selr1/medisign">
-        <img src="https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white" height="20"/>
-      </a>
-    </td>
-  </tr>
+<td width="50%" align="center">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/selr1/medisign/3286e99d7dd783bf31fd5ff74c9afaed1fb14496/2026-01-14-082635_hyprshot.png" alt="MediSign Preview" width="250px" height="auto"/>
+  </p>
+  <b align="center">MediSign: Medical Sign Language Recognition</b>
+  <br><br>
+  <p>An ML-based platform recognizing Malaysian Sign Language (MSL) in medical contexts using <b>MediaPipe</b> and <b>Scikit-Learn</b>. Achieved <b>98.69% accuracy</b> with an optimized SVM model to bridge communication gaps in healthcare.</p>
+  <br>
+  <b><a href="https://github.com/selr1/medisign">View on GitHub</a></b>
+</td>
+
+<td width="50%" align="center">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/selr1/TagFix/3cf017bdde632daa5bba41138c1f6b69f01683e0/2.png" width="120px" alt="Home"/>
+    <img src="https://raw.githubusercontent.com/selr1/TagFix/3cf017bdde632daa5bba41138c1f6b69f01683e0/1.png" width="120px" alt="Editor"/>
+  </p>
+  <b align="center">TagFix: Audio Metadata Editor</b>
+  <br><br>
+  <p>A powerful Android utility for editing audio tags across multiple formats (FLAC, MP3, M4A). Features <b>Material You</b> dynamic theming, <b>LRCLIB</b> for synchronized lyrics, and automatic metadata lookup via <b>MusicBrainz</b>.</p>
+  <br>
+  <b><a href="https://github.com/k44yn3/tagfixandroid">View on GitHub</a></b>
+</td>
+
+</tr>
 </table>
-
-<br>
-
-## Android Project: TagFix
-
-<table width="450">
-  <tr>
-    <td align="center" width="225">
-      <img src="https://raw.githubusercontent.com/selr1/TagFix/3cf017bdde632daa5bba41138c1f6b69f01683e0/2.png" width="140" alt="Home Screen"/>
-    </td>
-    <td align="center" width="225">
-      <img src="https://raw.githubusercontent.com/selr1/TagFix/3cf017bdde632daa5bba41138c1f6b69f01683e0/1.png" width="140" alt="Editor"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <p>
-        <img src="https://img.shields.io/badge/License-MIT-yellow.svg" height="15">
-        <img src="https://img.shields.io/badge/FOSS-100%25-success" height="15">
-      </p>
-      <p>
-        <font size="2">
-          <b>Audio Metadata Editor for Android</b>
-          <br>
-          Supports FLAC, MP3, WAV. Features <b>Material You</b> and <b>LRCLIB</b>.
-        </font>
-      </p>
-      <a href="https://github.com/k44yn3/tagfixandroid">
-        <img src="https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white" height="20"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
