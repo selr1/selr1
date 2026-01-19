@@ -36,6 +36,26 @@
   <br>
   <b><a href="https://github.com/k44yn3/tagfixandroid">View on GitHub</a></b>
 </td>
-
 </tr>
 </table>
+
+---
+
+## Now Playing
+
+<table border="0" align="center">
+  <tr border="0">
+    <td width="600" align="center">
+      <p align="center">
+        <a href="https://www.youtube.com/watch?v=5oQVTnq-UKk">
+          <img src="https://img.youtube.com/vi/5oQVTnq-UKk/maxresdefault.jpg" alt="aespa - Rich Man" width="500px" style="border-radius:15px;"/>
+        </a>
+      </p>
+      <b align="center">aespa (에스파) - 'Rich Man'</b>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+---
