@@ -8,6 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=My+Matric+Number+is+2428591">
   </a>
 </p>
+
 <div align="center">
 
 ## Favorite Project: MediSign
@@ -32,4 +33,41 @@
   </tr>
 </table>
 
-</div>
+<br>
+
+## Android Project: TagFix
+
+<table>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://raw.githubusercontent.com/selr1/TagFix/3cf017bdde632daa5bba41138c1f6b69f01683e0/2.png" width="200" alt="Home Screen"/>
+      <br>
+      <sub>Home Screen</sub>
+    </td>
+    <td align="center" width="300">
+      <img src="https://raw.githubusercontent.com/selr1/TagFix/3cf017bdde632daa5bba41138c1f6b69f01683e0/1.png" width="200" alt="Editor"/>
+      <br>
+      <sub>Editor</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <p>
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT">
+        <img src="https://img.shields.io/badge/FOSS-100%25-success" alt="FOSS">
+        <img src="https://img.shields.io/badge/Platform-Android-green" alt="Android">
+      </p>
+      <p>
+        <b>Audio Metadata Editor for Android</b>
+        <br>
+        Supports FLAC, MP3, M4A, OGG, OPUS, WMA, and WAV.
+        <br>
+        Features <b>Material You</b>, <b>LRCLIB</b> lyrics sync, and <b>MusicBrainz</b> integration.
+      </p>
+      <br>
+      <a href="https://github.com/k44yn3/tagfixandroid">
+        <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
