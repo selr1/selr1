@@ -47,11 +47,11 @@
   <tr border="0">
     <td width="600" align="center">
       <p align="center">
-        <a href="https://www.youtube.com/watch?v=5oQVTnq-UKk">
-          <img src="https://img.youtube.com/vi/5oQVTnq-UKk/maxresdefault.jpg" alt="aespa - Rich Man" width="500px" style="border-radius:15px;"/>
+        <a href="https://www.youtube.com/watch?v=sLMXW_Dij50">
+          <img src="https://img.youtube.com/vi/sLMXW_Dij50/maxresdefault.jpg" alt="aespa - Rich Man" width="500px" style="border-radius:15px;"/>
         </a>
       </p>
-      <b align="center">aespa (에스파) - 'Rich Man'</b>
+      <b align="center">LE SSERAFIM - HOT (English ver.)</b>
     </td>
   </tr>
 </table>
